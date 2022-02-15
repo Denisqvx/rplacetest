@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/rplaceclone/static/js/app.a8f1adb4.chunk.js",
+    "app.js.map": "/rplaceclone/static/js/app.a8f1adb4.chunk.js.map",
+    "runtime~app.js": "/rplaceclone/static/js/runtime~app.54e4928e.js",
+    "runtime~app.js.map": "/rplaceclone/static/js/runtime~app.54e4928e.js.map",
+    "static/js/2.0927843a.chunk.js": "/rplaceclone/static/js/2.0927843a.chunk.js",
+    "static/js/2.0927843a.chunk.js.map": "/rplaceclone/static/js/2.0927843a.chunk.js.map",
+    "favicon-16.png": "/rplaceclone/favicon-16.png",
+    "favicon-32.png": "/rplaceclone/favicon-32.png",
+    "favicon.ico": "/rplaceclone/favicon.ico",
+    "index.html": "/rplaceclone/index.html",
+    "manifest.json": "/rplaceclone/manifest.json",
+    "serve.json": "/rplaceclone/serve.json",
+    "static/js/2.0927843a.chunk.js.LICENSE.txt": "/rplaceclone/static/js/2.0927843a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.54e4928e.js",
+    "static/js/2.0927843a.chunk.js",
+    "static/js/app.a8f1adb4.chunk.js"
+  ]
+}
